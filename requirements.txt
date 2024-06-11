@@ -1,0 +1,9 @@
+pandas==2.2.2
+matplotlib==3.9.0
+nbformat==5.10.4
+plotly==5.10.0
+scipy==1.9.3
+seaborn==0.12.1
+scikit-learn==1.5.0
+geopy==2.2.0
+holidays==0.16
