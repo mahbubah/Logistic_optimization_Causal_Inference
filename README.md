@@ -11,17 +11,25 @@ We will work on Gokada’s data to understand the primary causes of unfulfilled 
 # Installation
 
 1.Clone the repository
+
     git clone https://github.com/mahbubah/Logistic_optimization_Causal_Inference.git
+    
 2.Navigate to the project directory
+
     cd Logistic_optimization_Causal_Inference
+
 3.Install the required packages
+
     pip install -r requirements.txt
 
 # Directory Structure
 
 data/: Contains sample data files.
+
 notebooks/: Jupyter notebooks for data exploration, feature engineering and causal inference.
+
 scripts/: Python scripts for data processing and causal inference.
+
 README.md: Project overview and instructions.
 
 
